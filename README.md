@@ -1,1 +1,1 @@
-# bioinformatika
+# Bioinformatika - strucni kurs
