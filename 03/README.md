@@ -89,4 +89,5 @@
 
 - trimer = sekvenda duzine 3 
 - k-mer = sekvenca dizine k
+- kotingzi 
 
