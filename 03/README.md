@@ -87,3 +87,6 @@
     - nalaze se neke informacije o fasta fajlu 
     - zahtevaju referenncu, kako bi algoritmi radili brze
 
+- trimer = sekvenda duzine 3 
+- k-mer = sekvenca dizine k
+
