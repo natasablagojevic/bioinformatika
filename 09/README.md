@@ -55,5 +55,6 @@
 - MULTIPLE TESTING CORRETCION 
     - ne moze da se bazira na samo jednom genu!!! 
     - 
+    
     1. Benjamini-Hochberg = skoro uvek je bolja (bioloski proces je uvek regulisan velikim brojem gena)
     2. Bonferroni correction = 
